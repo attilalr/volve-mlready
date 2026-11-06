@@ -7,13 +7,18 @@ title: >-
   Volve ML-ready: co-registered PS/PP seismic and Vp cubes with well-tied effective
   porosity for 11 wellbores
 version: 1.0.0
-date-released: 2026-TODO-TODO
+date-released: 2026-11-06
 authors:
-  - family-names: TODO-FAMILY-NAME
-    given-names: TODO-GIVEN-NAMES
-    affiliation: TODO-AFFILIATION
-    orcid: https://orcid.org/TODO-0000-0000-0000
-# doi: 10.5281/zenodo.TODO   (fill in after Zenodo reserves the DOI)
+  - family-names: Leães Rodrigues
+    given-names: Áttila
+    affiliation: Universidade Federal do Rio Grande do Sul (UFRGS)
+    orcid: https://orcid.org/0000-0003-4524-4087
+    email: attila.leaes@gmail.com
+doi: 10.5281/zenodo.24014974
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24014974
+    description: Zenodo record of the dataset
 repository-code: https://github.com/attilalr/volve-mlready
 license-url: https://www.equinor.com/content/dam/statoil/documents/what-we-do/Equinor-HRS-Terms-and-conditions-for-licence-to-data-Volve.pdf
 keywords:
@@ -26,7 +31,7 @@ keywords:
   - North Sea
   - converted wave
 references:
-  - type: dataset
+  - type: data
     title: Volve field data set
     authors:
       - name: Equinor ASA
@@ -34,7 +39,7 @@ references:
       - name: Bayerngas Norge AS
     url: https://www.equinor.com/energy/volve-data-sharing
     year: 2018
-  - type: dataset
+  - type: data
     title: OSDU Open Test Data (Volve subset, public S3 mirror)
     authors:
       - name: OSDU Forum / The Open Group

@@ -1,6 +1,6 @@
 # Volve ML-ready: co-registered seismic cubes and well-tied effective porosity
 
-**Version 1.0.0** · DOI: `10.5281/zenodo.TODO` · Data licence: Equinor Open Data Licence ·
+**Version 1.0.0** · DOI: [`10.5281/zenodo.24014974`](https://doi.org/10.5281/zenodo.24014974) · Data licence: Equinor Open Data Licence ·
 Code licence: MIT
 
 This is an analysis-ready subset of the public **Volve field dataset** (Equinor, North Sea,
@@ -292,10 +292,10 @@ text, summary and the required attribution statement: [DATA_LICENSE.md](DATA_LIC
 Please cite this dataset (see `CITATION.cff` or the Zenodo record) **and** acknowledge the
 original Volve data as above.
 
-> TODO-AUTHOR (2026). *Volve ML-ready: co-registered PS/PP seismic and Vp cubes with
+> Leães Rodrigues, Á. (2026). *Volve ML-ready: co-registered PS/PP seismic and Vp cubes with
 > well-tied effective porosity for 11 wellbores* (v1.0.0) [Data set]. Zenodo.
-> https://doi.org/10.5281/zenodo.TODO
+> https://doi.org/10.5281/zenodo.24014974
 
 ## Contact
 
-TODO-AUTHOR · TODO-EMAIL · issues: https://github.com/attilalr/volve-mlready/issues
+Áttila Leães Rodrigues (UFRGS) · attila.leaes@gmail.com · issues: https://github.com/attilalr/volve-mlready/issues

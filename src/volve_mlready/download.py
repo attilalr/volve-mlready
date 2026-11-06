@@ -4,8 +4,8 @@ import json
 import urllib.request
 from pathlib import Path
 
-# Filled in once the dataset is published on Zenodo (the numeric id in zenodo.org/records/<id>).
-ZENODO_RECORD = None          # TODO: e.g. 12345678
+# Zenodo record of the dataset (the numeric id in zenodo.org/records/<id>).
+ZENODO_RECORD = 24014974      # https://doi.org/10.5281/zenodo.24014974
 DEFAULT_DIR = Path('data') / 'volve-mlready-v1.0.0'
 
 # Files a user can skip to save space (everything needed by the notebooks is kept).

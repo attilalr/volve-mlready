@@ -5,7 +5,9 @@ dataset is an analysis-ready subset of Equinor's public Volve field data (North 
 15/9): three seismic-derived cubes on one depth grid, with the effective-porosity logs of
 11 wellbores tied to it.
 
-**Dataset (Zenodo):** https://doi.org/10.5281/zenodo.TODO · about 3.2 GB ·
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24014974.svg)](https://doi.org/10.5281/zenodo.24014974)
+
+**Dataset (Zenodo):** https://doi.org/10.5281/zenodo.24014974 · about 3.2 GB ·
 Equinor Open Data Licence
 **This code:** MIT
 

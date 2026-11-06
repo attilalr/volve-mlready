@@ -41,7 +41,7 @@ indices and coordinates fit together. You only need `numpy` and `pandas`. The
 `volve_mlready` helper is a thin convenience layer, and each step also shows the plain
 `numpy`/`pandas` call.
 
-**Before you start:** download the files from Zenodo (DOI `10.5281/zenodo.TODO`) into
+**Before you start:** download the files from Zenodo (DOI `10.5281/zenodo.24014974`) into
 `data/volve-mlready-v1.0.0/`, or set `VOLVE_MLREADY_DIR`. See the README for the
 `volve_mlready.download()` helper.
 '''),
