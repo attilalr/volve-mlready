@@ -1,0 +1,18 @@
+# conda env create -f environment.yml && conda activate volve-mlready
+# Notebooks need only numpy, pandas and matplotlib.
+# The rebuild pipeline in release/ also needs segyio, lasio and pyproj.
+name: volve-mlready
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=2.0
+  - pandas>=2.2
+  - matplotlib-base>=3.8
+  - jupyterlab
+  - segyio>=1.9        # pipeline only
+  - lasio>=0.31        # pipeline only
+  - pyproj>=3.6        # pipeline only
+  - pip
+  - pip:
+      - -e .
