@@ -14,7 +14,7 @@ authors:
     affiliation: TODO-AFFILIATION
     orcid: https://orcid.org/TODO-0000-0000-0000
 # doi: 10.5281/zenodo.TODO   (fill in after Zenodo reserves the DOI)
-repository-code: https://github.com/attilalr/TODO-REPO-NAME
+repository-code: https://github.com/attilalr/volve-mlready
 license-url: https://www.equinor.com/content/dam/statoil/documents/what-we-do/Equinor-HRS-Terms-and-conditions-for-licence-to-data-Volve.pdf
 keywords:
   - Volve

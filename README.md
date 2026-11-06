@@ -25,7 +25,7 @@ in the Zenodo record.
 ## Quick start
 
 ```bash
-pip install git+https://github.com/attilalr/TODO-REPO-NAME     # numpy + pandas only
+pip install git+https://github.com/attilalr/volve-mlready     # numpy + pandas only
 ```
 
 ```python
@@ -54,7 +54,7 @@ They are committed with their outputs, so GitHub shows them without running anyt
 run them yourself:
 
 ```bash
-git clone https://github.com/attilalr/TODO-REPO-NAME && cd TODO-REPO-NAME
+git clone https://github.com/attilalr/volve-mlready && cd volve-mlready
 pip install -e ".[notebooks]"
 export VOLVE_MLREADY_DIR=/path/to/volve-mlready-v1.0.0     # or put the files in data/
 jupyter lab notebooks/

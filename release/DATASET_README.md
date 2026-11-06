@@ -53,7 +53,7 @@ Total: about 3.2 GB. Verify the download with `sha256sum -c SHA256SUMS.txt`.
 Install the small loader (numpy + pandas only) from GitHub, or from `code.zip`:
 
 ```bash
-pip install git+https://github.com/attilalr/TODO-REPO-NAME
+pip install git+https://github.com/attilalr/volve-mlready
 ```
 
 ```python
@@ -298,4 +298,4 @@ original Volve data as above.
 
 ## Contact
 
-TODO-AUTHOR · TODO-EMAIL · issues: https://github.com/attilalr/TODO-REPO-NAME/issues
+TODO-AUTHOR · TODO-EMAIL · issues: https://github.com/attilalr/volve-mlready/issues
